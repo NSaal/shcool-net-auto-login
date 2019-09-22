@@ -29,7 +29,7 @@ def login():
     my_data = {
         'DDDDD': 'your id here',
         'upass': 'your password here',
-        # 'v6ip': '', # Not necessary if you dont use ipv6
+        # 'v6ip': '', # useless
         '0MKKey': '123456789',
     }
     a = requests.post(url, data=my_data, headers=my_headers)
