@@ -15,3 +15,4 @@ python及所需要的包请自行安装导入
 欢迎交流
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSaal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSaal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
